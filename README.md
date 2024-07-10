@@ -1,4 +1,6 @@
-
+我自己的理解：
+主要文件在udacidrone内
+1.message_types 定义了msg，和messaging
 Welcome to the UdaciDrone API!
 
 [![CircleCI](https://circleci.com/gh/udacity/udacidrone.svg?style=svg)](https://circleci.com/gh/udacity/udacidrone)
